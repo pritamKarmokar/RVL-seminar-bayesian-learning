@@ -4,3 +4,4 @@
 \beamer@slide {eqn:bayes_ensemble}{35}
 \beamer@slide {subsec:why_bayes_better}{43}
 \beamer@slide {sec:cold_posteriors_better}{54}
+\beamer@slide {eqn:elbo}{63}

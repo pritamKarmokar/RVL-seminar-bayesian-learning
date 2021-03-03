@@ -252,12 +252,63 @@
 		\includegraphics[width=0.6\textwidth]{../figures/imdb_12.png}
 	\end{frame}
 
-	\begin{frame}{Deep Learning Models}
+	\begin{frame}{Deep Learning Models: ResNet-20 and LSTM}
 		{CNN-LSTM on IMDB text classification}
 		\centering
-		\includegraphics[width=0.4\textwidth]{../figures/cold_post_1.png}
-		\includegraphics[width=0.4\textwidth]{../figures/cold_post_2.png}
+		\includegraphics[width=0.5\textwidth]{../figures/cold_post_1.png}\hfill
+		\includegraphics[width=0.5\textwidth]{../figures/cold_post_2.png}
 	\end{frame}
+
+\subsection[Why is a Temperature of $T < 1$ a Problem? ]{Why is a Temperature of $T < 1$ a Problem?}
+	\begin{frame}{Why is a Temperature of $T < 1$ a Problem?}
+		Two reasons:
+		\begin{enumerate}
+			\item<1-> $T<1$ corresponds to artificially sharpening the posterior, interpreted as
+			\begin{itemize}
+				\item<1-> overcounting evidence by a factor of $1/T$
+				\item<2-> rescaling of prior as $p(\bm{\theta})^{\frac{1}{T}}$
+				\item<3-> equivalent to a Bayes posterior obtained from a dataset consisting of $1/T$ replications of the original data
+				\item<4-> for $T=0$ all probability mass is concentrated on thet set of maximum a posteriori (MAP) point estimates
+			\end{itemize}
+			\item<5-> $T=1$ corresponds to the true Bayes posterior 
+			\begin{itemize}
+				\item performance gains for $T<1$ point to a potentially resolvable problem with the prior, likelihood, or inference procedure
+			\end{itemize} 
+		\end{enumerate}
+	\end{frame}
+
+	\begin{frame}{Confirmation from Literature}
+		{SG-MCMC on deep neural networks and posterior tempering}
+		\centering
+		\includegraphics[width=0.8\textwidth]{../figures/lit_1.png}
+	\end{frame}
+
+	\begin{frame}{Confirmation from Literature}
+		{Variational Bayes approach tempering likelihood part of posterior}
+		\begin{itemize}
+			\only<1-2>{
+			\item Variational bayes approach to Bayesian neural networks optimize $\tau$ of a variational distribution $q(\bm{\theta} \vert \tau)$ by minimizing the evidence lower bound (ELBO),
+			\begin{equation}\tag{4}
+				\label{eqn:elbo}
+				\mathbb{E}_{\bm{\theta}\sim q(\bm{\theta} \vert \tau)} \left[ \sum\limits_{i=1}^{n}\log p(y_i \vert x_i, \bm{\theta})\right] - \lambda D_{KL}(q(\bm{\theta} \vert \tau) \Vert p(\bm{\theta}))
+			\end{equation}
+			}
+			\item<2-> $\lambda=1$ directly minimizes $D_{KL}(q(\bm{\theta} \vert \tau) \Vert p(\bm{\theta})$, for rich variational families approximates the true Bayes $p(\bm{\theta}\vert \mathcal{D})$
+			\vspace{2ex}
+			\only<3->{
+			\centering
+			\includegraphics[width=0.8\textwidth]{../figures/lit_2.png}
+			}
+			\item<3-> KL-weighted ELBO (\ref{eqn:elbo}) arises from tempering the likelihood part of the posterior
+		\end{itemize}
+	\end{frame}
+
+	\begin{frame}{Confirmation from Literature}
+		{Cold posterior trail in literature}
+		We are not aware of \textcolor{FIRE_BRICK}{\textit{any}} published work demonstrating well-performing Bayesian deep learning at temperature $T=1$.
+	\end{frame}
+
+
 	% \begin{frame}{Introduction and Philosophy}
 	% 	\begin{itemize}
 	% 		\only<1-3>{

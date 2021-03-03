@@ -1362,16 +1362,6 @@ INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestrin
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
 OUTPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
@@ -1397,9 +1387,6 @@ INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex\latex\translator\tran
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-theorem-dictionary-English.dict
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.nav
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.nav
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.nav
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss0800.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx0900.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss1200.tfm
@@ -1408,10 +1395,11 @@ INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecs
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx0900.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss0800.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\pdftex\config\pdftex.map
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss1000.tfm
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx1000.tfm
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss0900.tfm
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss1728.tfm
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx1000.tfm
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsi1000.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
@@ -1446,17 +1434,6 @@ INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx1000.tfm
-INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss0900.tfm
-INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss1728.tfm
-INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx1000.tfm
-INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsi1000.tfm
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecso1000.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsi0900.tfm
 INPUT ..\figures\cold_post_1.png
@@ -1466,9 +1443,6 @@ INPUT ..\figures\cold_post_1.png
 INPUT ..\figures\cold_post_1.png
 INPUT ..\figures\cold_post_1.png
 INPUT ..\figures\cold_post_1.png
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
@@ -1495,9 +1469,6 @@ INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbsy10.tfm
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
-INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
 INPUT ..\figures\imdb_12.png
 INPUT ..\figures\imdb_12.png
 INPUT ..\figures\imdb_12.png
@@ -1516,12 +1487,29 @@ INPUT ..\figures\cold_post_2.png
 INPUT ..\figures\cold_post_2.png
 INPUT ..\figures\cold_post_2.png
 INPUT ..\figures\cold_post_2.png
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss1000.tfm
+INPUT ..\figures\lit_1.png
+INPUT ..\figures\lit_1.png
+INPUT ..\figures\lit_1.png
+INPUT ..\figures\lit_1.png
+INPUT ..\figures\lit_1.png
+INPUT ..\figures\lit_1.png
+INPUT ..\figures\lit_1.png
+INPUT ..\figures\lit_2.png
+INPUT ..\figures\lit_2.png
+INPUT ..\figures\lit_2.png
+INPUT ..\figures\lit_2.png
+INPUT ..\figures\lit_2.png
+INPUT ..\figures\lit_2.png
+INPUT ..\figures\lit_2.png
 OUTPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.nav
 OUTPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.toc
 OUTPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.snm
 INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.aux
 INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
 INPUT d:\Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\tex\how_good_is_the_bayes_posterior_in_deep_neural_networks_really.out
+INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk
+INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk
 INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsi0900.pk
 INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsi0900.pk
 INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi657\ecso1000.pk
@@ -1538,8 +1526,6 @@ INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600
 INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0900.pk
 INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi450\ecss0800.pk
 INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi450\ecss0800.pk
-INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk
-INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1000.pk
 INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi720\ecss1200.pk
 INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi720\ecss1200.pk
 INPUT C:\Users\pxk5869xx\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0800.pk
@@ -1558,6 +1544,8 @@ INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfon
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi5.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
@@ -1568,9 +1556,15 @@ INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfon
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr5.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
+INPUT C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
