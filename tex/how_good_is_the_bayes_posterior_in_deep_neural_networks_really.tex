@@ -239,8 +239,24 @@
 		\begin{itemize}
 			\item<1-> \textbf{Demonstrate} two models and tasks (ResNet-20 on CIFAR-10 and CNN-LSTM on IMDB) that the Bayes posterior predictive has \textbf{poor performance} compared to SGD-trained models
 			\item<2-> \textbf{Put forth and systematically examine hypotheses} that could \textbf{explain the observed behaviour}
-			\item<3-> \textbf{Introduce} two new diagnostic tools for assessing the approximation quality of stochastic gradient	Markov chain Monte Carlo methods (SG-MCMC) and demonstrate that the posterior is accurately simulated by existing SG-MCMC methods 
+			\item<3-> \textbf{Introduce two new diagnostic tools} for assessing the approximation quality of stochastic gradient	Markov chain Monte Carlo methods (SG-MCMC) and \textbf{demonstrate} that the posterior is accurately simulated by existing SG-MCMC methods 
 		\end{itemize}
+	\end{frame}
+
+\section[Cold Posteriors Perform Better]{Cold Posteriors Perform Better}
+\label{sec:cold_posteriors_better}
+
+	\begin{frame}{Deep Learning Models: ResNet-20 and LSTM}
+		{ResNet-20 on CIFAR-10}
+		\centering
+		\includegraphics[width=0.6\textwidth]{../figures/imdb_12.png}
+	\end{frame}
+
+	\begin{frame}{Deep Learning Models}
+		{CNN-LSTM on IMDB text classification}
+		\centering
+		\includegraphics[width=0.4\textwidth]{../figures/cold_post_1.png}
+		\includegraphics[width=0.4\textwidth]{../figures/cold_post_2.png}
 	\end{frame}
 	% \begin{frame}{Introduction and Philosophy}
 	% 	\begin{itemize}

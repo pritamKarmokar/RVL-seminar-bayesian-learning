@@ -2,3 +2,4 @@
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Bayesian Deep Learning}{29}{0}{1}
 \beamer@subsectionintoc {1}{2}{Why should Bayes ($T=1$) be better?}{42}{0}{1}
+\beamer@sectionintoc {2}{Cold Posteriors Perform Better}{53}{0}{2}

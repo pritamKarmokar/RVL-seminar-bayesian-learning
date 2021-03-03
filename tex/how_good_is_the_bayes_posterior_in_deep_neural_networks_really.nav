@@ -41,8 +41,17 @@
 \headcommand {\beamer@framepages {47}{49}}
 \headcommand {\slideentry {1}{2}{4}{50/52}{Why should Bayes ($T=1$) be better?}{0}}
 \headcommand {\beamer@framepages {50}{52}}
-\headcommand {\beamer@partpages {1}{52}}
-\headcommand {\beamer@subsectionpages {42}{52}}
 \headcommand {\beamer@sectionpages {3}{52}}
-\headcommand {\beamer@documentpages {52}}
-\headcommand {\gdef \inserttotalframenumber {18}}
+\headcommand {\beamer@subsectionpages {42}{52}}
+\headcommand {\sectionentry {2}{Cold Posteriors Perform Better}{53}{Cold Posteriors Perform Better}{0}}
+\headcommand {\slideentry {2}{0}{1}{53/53}{}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\slideentry {2}{0}{2}{54/54}{}{0}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\slideentry {2}{0}{3}{55/55}{}{0}}
+\headcommand {\beamer@framepages {55}{55}}
+\headcommand {\beamer@partpages {1}{55}}
+\headcommand {\beamer@subsectionpages {53}{55}}
+\headcommand {\beamer@sectionpages {53}{55}}
+\headcommand {\beamer@documentpages {55}}
+\headcommand {\gdef \inserttotalframenumber {21}}
