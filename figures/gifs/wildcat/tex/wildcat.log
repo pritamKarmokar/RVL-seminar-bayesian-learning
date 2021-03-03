@@ -1,0 +1,562 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.1.1)  9 FEB 2021 13:44
+entering extended mode
+**"d:/Pritam/RVL seminars/How Good is the Bayes Posterior in Deep Neural Networks Really/Presentation/figures/gifs/wildcat/tex/wildcat.tex"
+("d:/Pritam/RVL seminars/How Good is the Bayes Posterior in Deep Neural Networks Really/Presentation/figures/gifs/wildcat/tex/wildcat.tex"
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03> (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/standalone\standalone.cls
+Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files standalone
+(C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count177
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count178
+\c@sapage=\count179
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/standalone\standalone.cfg
+File: standalone.cfg 2018/03/26 v1.3a Default configuration file for 'standalone' class
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+\sa@box=\box47
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen141
+\pgfutil@tempdimb=\dimen142
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box48
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/12/01 v3.1.7a (3.1.7a)
+))
+Package: pgf 2020/12/01 v3.1.7a (3.1.7a)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2020/12/01 v3.1.7a (3.1.7a)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen143
+\pgf@y=\dimen144
+\pgf@xa=\dimen145
+\pgf@ya=\dimen146
+\pgf@xb=\dimen147
+\pgf@yb=\dimen148
+\pgf@xc=\dimen149
+\pgf@yc=\dimen150
+\pgf@xd=\dimen151
+\pgf@yd=\dimen152
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count188
+\c@pgf@countb=\count189
+\c@pgf@countc=\count190
+\c@pgf@countd=\count191
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count192
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2020/12/01 v3.1.7a (3.1.7a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/01 v3.1.7a (3.1.7a)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/01 v3.1.7a (3.1.7a)
+))) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfsyssoftpath@smallbuffer@items=\count193
+\pgfsyssoftpath@bigbuffer@items=\count194
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2020/12/01 v3.1.7a (3.1.7a)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen153
+\pgfmath@count=\count195
+\pgfmath@box=\box49
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex))) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count196
+)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@picminx=\dimen154
+\pgf@picmaxx=\dimen155
+\pgf@picminy=\dimen156
+\pgf@picmaxy=\dimen157
+\pgf@pathminx=\dimen158
+\pgf@pathmaxx=\dimen159
+\pgf@pathminy=\dimen160
+\pgf@pathmaxy=\dimen161
+\pgf@xx=\dimen162
+\pgf@xy=\dimen163
+\pgf@yx=\dimen164
+\pgf@yy=\dimen165
+\pgf@zx=\dimen166
+\pgf@zy=\dimen167
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@path@lastx=\dimen168
+\pgf@path@lasty=\dimen169
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@shorten@end@additional=\dimen170
+\pgf@shorten@start@additional=\dimen171
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfpic=\box50
+\pgf@hbox=\box51
+\pgf@layerbox@main=\box52
+\pgf@picture@serial@count=\count197
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgflinewidth=\dimen172
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@pt@x=\dimen173
+\pgf@pt@y=\dimen174
+\pgf@pt@temp=\dimen175
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfarrowsep=\dimen176
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@max=\dimen177
+\pgf@sys@shading@range@num=\count198
+\pgf@shadingcount=\count199
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfexternal@startupbox=\box53
+)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+))) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfnodeparttextbox=\box54
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@nodesepstart=\dimen178
+\pgf@nodesepend=\dimen179
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/01 v3.1.7a (3.1.7a)
+)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2020/12/01 v3.1.7a (3.1.7a)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
+\pgffor@iter=\dimen180
+\pgffor@skip=\dimen181
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2020/12/01 v3.1.7a (3.1.7a)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgf@plot@mark@count=\count266
+\pgfplotmarksize=\dimen182
+)
+\tikz@lastx=\dimen183
+\tikz@lasty=\dimen184
+\tikz@lastxsaved=\dimen185
+\tikz@lastysaved=\dimen186
+\tikz@lastmovetox=\dimen187
+\tikz@lastmovetoy=\dimen188
+\tikzleveldistance=\dimen189
+\tikzsiblingdistance=\dimen190
+\tikz@figbox=\box55
+\tikz@figbox@bg=\box56
+\tikz@tempbox=\box57
+\tikz@tempbox@bg=\box58
+\tikztreelevel=\count267
+\tikznumberofchildren=\count268
+\tikznumberofcurrentchild=\count269
+\tikz@fig@count=\count270
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+\pgfmatrixcurrentrow=\count271
+\pgfmatrixcurrentcolumn=\count272
+\pgf@matrix@numberofcolumns=\count273
+)
+\tikz@expandcount=\count274
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+))) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks29
+\t@pgfplots@tokb=\toks30
+\t@pgfplots@tokc=\toks31
+\pgfplots@tmpa=\dimen191
+\c@pgfplots@coordindex=\count275
+\c@pgfplots@scanlineindex=\count276
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count277
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count278
+\t@pgfplotstable@a=\toks32
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count279
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex)
+(C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen192
+\pgfdecoratedremainingdistance=\dimen193
+\pgfdecoratedinputsegmentcompleteddistance=\dimen194
+\pgfdecoratedinputsegmentremainingdistance=\dimen195
+\pgf@decorate@distancetomove=\dimen196
+\pgf@decorate@repeatstate=\count280
+\pgfdecorationsegmentamplitude=\dimen197
+\pgfdecorationsegmentlength=\dimen198
+)
+\tikz@lib@dec@box=\box59
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex))
+\pgfplots@numplots=\count281
+\pgfplots@xmin@reg=\dimen199
+\pgfplots@xmax@reg=\dimen256
+\pgfplots@ymin@reg=\dimen257
+\pgfplots@ymax@reg=\dimen258
+\pgfplots@zmin@reg=\dimen259
+\pgfplots@zmax@reg=\dimen260
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
+))) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/animate\animate.sty
+Package: animate 2020/10/07 PDF & SVG animations from files and inline graphics
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count282
+\calc@Bcount=\count283
+\calc@Adimen=\dimen261
+\calc@Bdimen=\dimen262
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count284
+\calc@Cskip=\skip51
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/zref\zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\c@abspage=\count285
+Package zref Info: New property: abspage on input line 66.
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/media9\pdfbase.sty (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-12-07 L3 programming layer (loader) 
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count286
+\l__pdf_internal_box=\box60
+)) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: pdfbase 2020/09/10 v0.44 driver independent access to low-level PDF features
+\g_pbs_page_int=\count287
+\g_pbs_oc_int=\count288
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/ocgx2\ocgbase.sty
+Package: ocgbase 2019/11/04 v0.17 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count289
+)
+\@anim@box=\box61
+\@anim@measbox=\box62
+\@anim@tmpdima=\dimen263
+\@anim@tmpdimb=\dimen264
+\@anim@num=\count290
+\@anim@curframe=\count291
+\@anim@curframe@zb=\count292
+\@anim@resizeflags=\count293
+\@anim@skipfram=\count294
+\@anim@mulframecnt=\count295
+\@anim@@tmlnfile=\read3
+\@anim@tmpcnt=\count296
+\c@@anim@ltxcnt=\count297
+\@anim@curlayer=\count298
+\@anim@lineno=\count299
+\@anim@curfield=\count300
+\@anim@@resizeflags=\count301
+) ("d:/Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\figures\gifs\wildcat\tex\wildcat.aux")
+\openout1 = `wildcat.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+ (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count302
+\scratchdimen=\dimen265
+\scratchbox=\box63
+\nofMPsegments=\count303
+\nofMParguments=\count304
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count305
+\MPscratchDim=\dimen266
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
+\everyMPtoPDFconversion=\toks34
+) (C:\Users\pxk5869xx\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into your preamble.
+ on input line 5.
+
+<../wildcat-0.png, id=4, 401.5pt x 226.8475pt>
+File: ../wildcat-0.png Graphic file (type png)
+<use ../wildcat-0.png>
+Package pdftex.def Info: ../wildcat-0.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-0.png> <a0,fr0>
+<../wildcat-1.png, id=13, 401.5pt x 226.8475pt>
+File: ../wildcat-1.png Graphic file (type png)
+<use ../wildcat-1.png>
+Package pdftex.def Info: ../wildcat-1.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-1.png> <a0,fr1>
+<../wildcat-2.png, id=22, 401.5pt x 226.8475pt>
+File: ../wildcat-2.png Graphic file (type png)
+<use ../wildcat-2.png>
+Package pdftex.def Info: ../wildcat-2.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-2.png> <a0,fr2>
+<../wildcat-3.png, id=31, 401.5pt x 226.8475pt>
+File: ../wildcat-3.png Graphic file (type png)
+<use ../wildcat-3.png>
+Package pdftex.def Info: ../wildcat-3.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-3.png> <a0,fr3>
+<../wildcat-4.png, id=40, 401.5pt x 226.8475pt>
+File: ../wildcat-4.png Graphic file (type png)
+<use ../wildcat-4.png>
+Package pdftex.def Info: ../wildcat-4.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-4.png> <a0,fr4>
+<../wildcat-5.png, id=49, 401.5pt x 226.8475pt>
+File: ../wildcat-5.png Graphic file (type png)
+<use ../wildcat-5.png>
+Package pdftex.def Info: ../wildcat-5.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-5.png> <a0,fr5>
+<../wildcat-6.png, id=58, 401.5pt x 226.8475pt>
+File: ../wildcat-6.png Graphic file (type png)
+<use ../wildcat-6.png>
+Package pdftex.def Info: ../wildcat-6.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-6.png> <a0,fr6>
+<../wildcat-7.png, id=67, 401.5pt x 226.8475pt>
+File: ../wildcat-7.png Graphic file (type png)
+<use ../wildcat-7.png>
+Package pdftex.def Info: ../wildcat-7.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-7.png> <a0,fr7>
+<../wildcat-8.png, id=76, 401.5pt x 226.8475pt>
+File: ../wildcat-8.png Graphic file (type png)
+<use ../wildcat-8.png>
+Package pdftex.def Info: ../wildcat-8.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-8.png> <a0,fr8>
+<../wildcat-9.png, id=85, 401.5pt x 226.8475pt>
+File: ../wildcat-9.png Graphic file (type png)
+<use ../wildcat-9.png>
+Package pdftex.def Info: ../wildcat-9.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-9.png> <a0,fr9>
+<../wildcat-10.png, id=94, 401.5pt x 226.8475pt>
+File: ../wildcat-10.png Graphic file (type png)
+<use ../wildcat-10.png>
+Package pdftex.def Info: ../wildcat-10.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-10.png> <a0,fr10>
+<../wildcat-11.png, id=103, 401.5pt x 226.8475pt>
+File: ../wildcat-11.png Graphic file (type png)
+<use ../wildcat-11.png>
+Package pdftex.def Info: ../wildcat-11.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-11.png> <a0,fr11>
+<../wildcat-12.png, id=112, 401.5pt x 226.8475pt>
+File: ../wildcat-12.png Graphic file (type png)
+<use ../wildcat-12.png>
+Package pdftex.def Info: ../wildcat-12.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-12.png> <a0,fr12>
+<../wildcat-13.png, id=121, 401.5pt x 226.8475pt>
+File: ../wildcat-13.png Graphic file (type png)
+<use ../wildcat-13.png>
+Package pdftex.def Info: ../wildcat-13.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-13.png> <a0,fr13>
+<../wildcat-14.png, id=130, 401.5pt x 226.8475pt>
+File: ../wildcat-14.png Graphic file (type png)
+<use ../wildcat-14.png>
+Package pdftex.def Info: ../wildcat-14.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-14.png> <a0,fr14>
+<../wildcat-15.png, id=139, 401.5pt x 226.8475pt>
+File: ../wildcat-15.png Graphic file (type png)
+<use ../wildcat-15.png>
+Package pdftex.def Info: ../wildcat-15.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-15.png> <a0,fr15>
+<../wildcat-16.png, id=148, 401.5pt x 226.8475pt>
+File: ../wildcat-16.png Graphic file (type png)
+<use ../wildcat-16.png>
+Package pdftex.def Info: ../wildcat-16.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-16.png> <a0,fr16>
+<../wildcat-17.png, id=157, 401.5pt x 226.8475pt>
+File: ../wildcat-17.png Graphic file (type png)
+<use ../wildcat-17.png>
+Package pdftex.def Info: ../wildcat-17.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-17.png> <a0,fr17>
+<../wildcat-18.png, id=166, 401.5pt x 226.8475pt>
+File: ../wildcat-18.png Graphic file (type png)
+<use ../wildcat-18.png>
+Package pdftex.def Info: ../wildcat-18.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-18.png> <a0,fr18>
+<../wildcat-19.png, id=175, 401.5pt x 226.8475pt>
+File: ../wildcat-19.png Graphic file (type png)
+<use ../wildcat-19.png>
+Package pdftex.def Info: ../wildcat-19.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-19.png> <a0,fr19>
+<../wildcat-20.png, id=184, 401.5pt x 226.8475pt>
+File: ../wildcat-20.png Graphic file (type png)
+<use ../wildcat-20.png>
+Package pdftex.def Info: ../wildcat-20.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-20.png> <a0,fr20>
+<../wildcat-21.png, id=193, 401.5pt x 226.8475pt>
+File: ../wildcat-21.png Graphic file (type png)
+<use ../wildcat-21.png>
+Package pdftex.def Info: ../wildcat-21.png  used on input line 6.
+(pdftex.def)             Requested size: 401.49901pt x 226.84694pt.
+ <../wildcat-21.png> <a0,fr21> [1
+
+] ("d:/Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\figures\gifs\wildcat\tex\wildcat.aux") ) 
+Here is how much of TeX's memory you used:
+ 23579 strings out of 479696
+ 621208 string characters out of 2865216
+ 986657 words of memory out of 3000000
+ 40260 multiletter control sequences out of 15000+200000
+ 403430 words of font info for 27 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 94i,5n,98p,850b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on "d:/Pritam\RVL seminars\How Good is the Bayes Posterior in Deep Neural Networks Really\Presentation\figures\gifs\wildcat\tex\wildcat.pdf" (1 page, 1123454 bytes).
+PDF statistics:
+ 213 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 531 words of extra memory for PDF output out of 10000 (max. 10000000)
+
